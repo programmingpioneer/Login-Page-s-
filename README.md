@@ -29,4 +29,4 @@ This **Responsive Login Page** is designed to captivate users while providing an
 
 <hr>
 <img src="https://github.com/programmingpioneer/Login-Page-s-/blob/c8a243b0fbb49ecd776d4ddcdad61a71f2aa8587/Responsive%20Login%20Page/Output.png" width="300" height="200" />
-<img src="="300" height="200" />
+<img src="https://github.com/programmingpioneer/Login-Page-s-/blob/8faec7571821c1fe41dbe65d076c4d424d55c973/Responsive%20Login%20Page/CodeOutput.png" width="300" height="200" />
