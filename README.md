@@ -28,5 +28,5 @@ This **Responsive Login Page** is designed to captivate users while providing an
 ### Image's
 
 <hr>
-<img src="path/to/image.jpg" width="300" height="200" />
-<img src="path/to/image.jpg" width="300" height="200" />
+<img src="https://github.com/programmingpioneer/Login-Page-s-/blob/c8a243b0fbb49ecd776d4ddcdad61a71f2aa8587/Responsive%20Login%20Page/Output.png" width="300" height="200" />
+<img src="="300" height="200" />
